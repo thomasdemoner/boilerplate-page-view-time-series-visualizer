@@ -4,6 +4,8 @@ import seaborn as sns
 from pandas.plotting import register_matplotlib_converters
 register_matplotlib_converters()
 
+#testing
+
 # Import data (Make sure to parse dates. Consider setting index column to 'date'.)
 df = None
 
